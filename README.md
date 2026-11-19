@@ -41,7 +41,8 @@ O banco é composto por **6 entidades** interligadas por chaves estrangeiras (`F
 
 ### Diagrama Entidade-Relacionamento (DER)
 
-![Diagrama Entidade-Relacionamento](./der.png)
+<img width="1024" height="761" alt="image" src="https://github.com/user-attachments/assets/fde4b668-23ee-41a0-bcdb-bf8f7ab09615" />
+
 
 ---
 
